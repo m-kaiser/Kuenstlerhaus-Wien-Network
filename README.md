@@ -3,4 +3,4 @@
 
 ![image of network node](https://github.com/m-kaiser/Kuenstlerhaus-Wien-Network/blob/ea88a274049c99b50ecb702349ab64669cb5337e/Graph%20File/kuenstlerhaus_wien_network_image1.png)
 
-[Try it out!](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2Fm-kaiser%2F84b61d661c3e356936732ec97774ccbc%2Fraw%2F5393d9c32383d5399f4019b0cc1d050614441718%2Fkuenstlerhaus_network_fin.gexf&ca[]=g&ca[]=t&ca[]=i-s&ca[]=o-s&ca[]=de-s&fa[]=pd&fa[]=pb&fa[]=de-n&fa[]=dad&fa[]=dab&st[]=t&st[]=g&st[]=pb&st[]=dab&st[]=pd&st[]=dad&st[]=wd&st[]=wp&ec=o)
+[Try it out!](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2Fm-kaiser%2F10ad8656256ab0af66df00723e171d8a%2Fraw%2F6c3319a38f617dcf8c2356f5021b22ae6a01d3b7%2Fkuenstlerhaus_network.gexf&n=p_1873&sa=r&ca[]=g&ca[]=t&fa[]=dd&fa[]=pb&fa[]=pd&fa[]=o&fa[]=e&fa[]=db&st[]=t&st[]=g&st[]=o&st[]=wd&st[]=db&st[]=pb&st[]=dd&st[]=pd&st[]=e&st[]=wp&st[]=r&ec=o)
