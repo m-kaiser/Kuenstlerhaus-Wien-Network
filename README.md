@@ -43,7 +43,7 @@ This dataset contains information about exhibitor networks gathered by the evalu
 | type | two types of nodes “persons” and “exhibitions” |
 
 ### Interactive Network Graph
-The interactive Network Graph is built with [Gephi 0.9](https://gephi.org/) and [Retina beta](https://ouestware.gitlab.io/retina/beta/#/). Nodes represent exhibitors and exhibitions in this two-mode network. Each of the edges is drawn on the basis of a catlogue entry. A wide range of filters can be applied for persons in this network (biographical data from wikidata: gender, type, occupation, places etc.). Additional information about an identified exhibitor can be accessed through a link to a wikipedia page.
+The interactive Network Graph is built with [Gephi 0.9](https://gephi.org/) and [Retina beta](https://ouestware.gitlab.io/retina/beta/#/). Nodes represent exhibitors and exhibitions in this two-mode network. Each of the edges is drawn on the basis of a catlogue entry. A wide range of filters can be applied for persons in this network (biographical data from wikidata: gender, type, occupation, places, education etc.). Additional information about an identified exhibitor can be accessed through a link to a wikipedia page.
 
 ![image of network node](https://github.com/m-kaiser/Kuenstlerhaus-Wien-Network/blob/ea88a274049c99b50ecb702349ab64669cb5337e/Graph%20File/kuenstlerhaus_wien_network_image1.png)
 > Screenshot of the interactive Network Graph
