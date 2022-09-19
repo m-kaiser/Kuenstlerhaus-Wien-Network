@@ -42,6 +42,10 @@ This dataset contains information about exhibitor networks gathered by the evalu
 | wikipedia | link to english, spanish, german or french wikipedia page of an exhibitor |
 | type | two types of nodes “persons” and “exhibitions” |
 
+### Biographical Data
+
+The biographical data for most of the Austrian artists was collected during the APIS project between 2015 and 2019 (about Austrian artists described in the Austrian Biographical Encyclopedia). A second data sample, describing the life and carreers of German artists (mostly artists from Berlin and Düsseldorf) was compiled in 2020 for comparative purpose. All data was referenced with the matching wikidata properties (e.g. was student of, student of (P1066)). The exzerpt of biographical encycolpedia articles were made on the basis of an annotation manual developed in course of the APIS project (see publication section below).
+
 ### Interactive Network Graph
 The interactive Network Graph is built with [Gephi 0.9](https://gephi.org/) and [Retina beta](https://ouestware.gitlab.io/retina/beta/#/). Nodes represent exhibitors and exhibitions in this two-mode network. Each of the edges is drawn on the basis of a catlogue entry. A wide range of filters can be applied for persons in this network (biographical data from wikidata: gender, type, occupation, places, education etc.). Additional information about an identified exhibitor can be accessed through a link to a wikipedia page.
 
