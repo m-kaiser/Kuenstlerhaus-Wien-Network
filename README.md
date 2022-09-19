@@ -1,29 +1,31 @@
 # Künstlerhaus Wien Network
  This dataset contains information about exhibitor networks gathered by the evaluation of catalogues of the annual exhibitions of the “Association of Fine Artists Vienna, Künstlerhaus”. It includes not only biographical data about Austrian artists but also international participants of these events. Currently, the dataset covers mainly the period from 1869 to 1900 but will be hopefully expanded in the future. Persons, who could be identified, were referenced with identifiers from linked-open-data-resources such as Wikidata, GND, ULAN, RKDartistsID. This has been done with Institutions (GND, Wikidata) and places (Wikidata, GeoNames) so far it was possible.
 
-## dataset
+## Dataset
 + Biographical Data
 + Graph File
- * edges table
- * nodes table
+ * Edges Table
+ * Nodes Table
 
 
 ### edges table
 
 ### nodes table
 
-Id | unique identifier for the network graph (prefix p for persons, prefix e for exhibitions)
-Label | 
-wikidata | identifier of an wikidata entity
-date of birth| date when an exhibitor was born, based on wikidata
-date of death | date when an exhibitor has died, based on wikidata
-place of birth | place where an exhibitor has been born, based on wikidata
-place of death | place where an exhibitor has died, based on wikidata
-occupation | one or more occupations of an exhibitor, separated by an semicolon, based on wikidata
-educated at | listing of educational institutions where an exhibitor has been educated at , separated by an semicolon, based on wikidata
-gender | male, female or unknown
-wikipedia | Link to english, spanish, german or french wikipedia page of an exhibitor
-type | two types of nodes “persons” and “exhibitions”
+| column title | definition |
+|--------------|------------|
+| Id | unique identifier for the network graph (prefix p for persons, prefix e for exhibitions)|
+| Label | name of an exhibitor or exhibition |
+| wikidata | identifier of an wikidata entity |
+| date of birth| date when an exhibitor was born, based on wikidata |
+| date of death | date when an exhibitor has died, based on wikidata |
+| place of birth | place where an exhibitor has been born, based on wikidata |
+| place of death | place where an exhibitor has died, based on wikidata |
+| occupation | one or more occupations of an exhibitor, separated by an semicolon, based on wikidata |
+| educated at | listing of educational institutions where an exhibitor has been educated at , separated by an semicolon, based on wikidata |
+| gender | male, female or unknown |
+| wikipedia | Link to english, spanish, german or french wikipedia page of an exhibitor |
+| type | two types of nodes “persons” and “exhibitions” |
 
 
 
