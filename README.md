@@ -1,5 +1,5 @@
 # Künstlerhaus Wien Network
- This dataset contains information about exhibitor networks gathered by the evaluation of catalogues of the annual exhibitions of the “Association of Fine Artists Vienna, Künstlerhaus”. It includes not only biographical data about Austrian artists but also international participants of these events. Currently, the dataset covers mainly the period from 1869 to 1900 but will be hopefully expanded in the future. Persons, who could be identified, were referenced with identifiers from linked-open-data-resources such as **Wikidata, GND, ULAN, RKDartistsID**. This has been done with Institutions (GND, Wikidata) and places (Wikidata, GeoNames) so far it was possible.
+This dataset contains information about exhibitor networks gathered by the evaluation of catalogues of the annual exhibitions of the “Association of Fine Artists Vienna, Künstlerhaus”. It includes not only biographical data about Austrian artists but also international participants of these events. Currently, the dataset covers mainly the period from 1869 to 1900 but will be hopefully expanded in the future. Persons, who could be identified, were referenced with identifiers from linked-open-data-resources such as **Wikidata, GND, ULAN, RKDartistsID**. This has been done with Institutions (GND, Wikidata) and places (Wikidata, GeoNames) so far it was possible.
 
 ## Dataset
 1. Graph File
@@ -43,6 +43,7 @@
 | type | two types of nodes “persons” and “exhibitions” |
 
 ### Interactive Network Graph
+The interactive Network Graph is built with [Gephi 0.9](https://gephi.org/) and [Retina beta](https://ouestware.gitlab.io/retina/beta/#/). Nodes represent exhibitors and exhibitions in this two-mode network. Each of the edges is drawn on the basis of a catlogue entry.
 
 ![image of network node](https://github.com/m-kaiser/Kuenstlerhaus-Wien-Network/blob/ea88a274049c99b50ecb702349ab64669cb5337e/Graph%20File/kuenstlerhaus_wien_network_image1.png)
 > Screenshot of the interactive Network Graph
