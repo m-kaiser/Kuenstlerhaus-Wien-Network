@@ -4,8 +4,8 @@
 ## Dataset
 1. Biographical Data
 2. Graph File
- - Edges Table
- - Nodes Table
+   - Edges Table
+   - Nodes Table
 3. interactive Network Graph
 
 ### edges table
