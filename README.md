@@ -3,14 +3,13 @@
 
 ## Dataset
 1. Graph File
-   1.1 Edges Table
-   1.2 Nodes Table
-2. Interactive Network Graph
-3. Biographical Data
-   3.1 person-person-network
-   3.2 person-institution-network
-   3.3 person-place-network
-   3.4 person-source-network
+   - Edges Table
+   - Nodes Table
+2. Biographical Data
+   - person-person-network
+   - person-institution-network
+   - person-place-network
+   - person-source-network
 
 ### Edges Table
 | column title | definition |
