@@ -3,6 +3,10 @@
 
 ## Dataset
 1. Biographical Data
+   - person-person-network
+   - person-institution-network
+   - person-place-network
+   - person-source-network
 2. Graph File
    * Edges Table
    * Nodes Table
