@@ -2,15 +2,15 @@
  This dataset contains information about exhibitor networks gathered by the evaluation of catalogues of the annual exhibitions of the “Association of Fine Artists Vienna, Künstlerhaus”. It includes not only biographical data about Austrian artists but also international participants of these events. Currently, the dataset covers mainly the period from 1869 to 1900 but will be hopefully expanded in the future. Persons, who could be identified, were referenced with identifiers from linked-open-data-resources such as **Wikidata, GND, ULAN, RKDartistsID**. This has been done with Institutions (GND, Wikidata) and places (Wikidata, GeoNames) so far it was possible.
 
 ## Dataset
-1. Biographical Data
+1. Graph File
+   * Edges Table
+   * Nodes Table
+2. Interactive Network Graph
+3. Biographical Data
    - person-person-network
    - person-institution-network
    - person-place-network
    - person-source-network
-2. Graph File
-   * Edges Table
-   * Nodes Table
-3. interactive Network Graph
 
 ### Edges Table
 | column title | definition |
