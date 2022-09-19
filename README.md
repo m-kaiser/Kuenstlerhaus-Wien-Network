@@ -4,8 +4,8 @@
 ## Dataset
 + Biographical Data
 + Graph File
- * Edges Table
- * Nodes Table
+ + Edges Table
+ + Nodes Table
 + interactive Network Graph
 
 ### edges table
@@ -34,7 +34,7 @@
 | place of birth | place where an exhibitor has been born, based on wikidata |
 | place of death | place where an exhibitor has died, based on wikidata |
 | occupation | one or more occupations of an exhibitor, separated by an semicolon, based on wikidata |
-| educated at | listing of educational institutions where an exhibitor has been educated at , separated by an semicolon, based on wikidata |
+| educated at | listing of educational institutions where an exhibitor has been educated at , separated by a semicolon, based on wikidata |
 | gender | male, female or unknown |
 | wikipedia | Link to english, spanish, german or french wikipedia page of an exhibitor |
 | type | two types of nodes “persons” and “exhibitions” |
