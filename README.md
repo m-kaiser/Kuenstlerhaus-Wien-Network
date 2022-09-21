@@ -14,7 +14,7 @@ This dataset contains information about exhibitor networks gathered by the evalu
 ### Edges Table
 | column title | definition |
 |--------------|------------|
-| Id | unique identifier for the network graph (prefix p for persons, prefix e for exhibitions)|
+| Id | unique identifier for the edges table |
 | source | node id for the network graph, always persons |
 | target | node id for the network graph, always exhibitions |
 | exhibitor | label of the source node, person name |
