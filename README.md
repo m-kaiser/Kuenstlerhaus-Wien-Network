@@ -29,7 +29,7 @@ This dataset contains information about exhibitor networks gathered by the evalu
 
 | column title | definition |
 |--------------|------------|
-| Id | unique identifier for the network graph (prefix p for persons, prefix e for exhibitions)|
+| Id | unique identifier for the nodes table (prefix p for persons, prefix e for exhibitions)|
 | label | name of an exhibitor or exhibition |
 | wikidata | identifier of an wikidata entity |
 | date of birth| date when an exhibitor was born, based on wikidata |
