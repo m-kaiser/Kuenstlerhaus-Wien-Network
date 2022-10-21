@@ -59,8 +59,8 @@ The interactive Network Graph is built with [Gephi 0.9](https://gephi.org/) and 
 *   Kaiser, Maximilian. “The ‘Who’s Who?’ Of Künstlerhaus Exhibitors. A Guide to Analyze Entangled Artists Biographies Based on Wikidata.” Edited by Anne Klammt, Antoine Courtin, and Olivier Bonfait. Humanités Numériques : De Nouveaux Récits En Histoire de l’art ?, Histoire de l’art, 87 (January 6, 2021): 125–37. 
 
 ## Sources
-[Katalog Der Internationalen Jubiläums-Kunst-Ausstellung Im Künstlerhause](https://belvedere-primo.hosted.exlibrisgroup.com/permalink/f/1vb66sb/43OGB_Alma2110120850004510), hrsg. v. Genossenschaft der bildenden Künstler Wien, Wien 1888.
-Genossenschaft der bildenden Künstler Wiens, ed. Katalog Der XI. Jahres-Ausstellung in Wien. Wien, 1880. https://belvedere-primo.hosted.exlibrisgroup.com/permalink/f/1vb66sb/43OGB_Alma219920060004510.
+- [Katalog Der Internationalen Jubiläums-Kunst-Ausstellung Im Künstlerhause](https://belvedere-primo.hosted.exlibrisgroup.com/permalink/f/1vb66sb/43OGB_Alma2110120850004510), hrsg. v. Genossenschaft der bildenden Künstler Wien, Wien 1888.
+- [Katalog Der XI. Jahres-Ausstellung in Wien](https://belvedere-primo.hosted.exlibrisgroup.com/permalink/f/1vb66sb/43OGB_Alma219920060004510), hrsg. v. Genossenschaft der bildenden Künstler Wien, Wien 1880. 
 Genossenschaft der bildenden Künstler Wiens, ed. Katalog Der XII. Jahres-Ausstellung in Wien. Wien, 1881. https://belvedere-primo.hosted.exlibrisgroup.com/permalink/f/1vb66sb/43OGB_Alma2110093900004510.
 Genossenschaft der bildenden Künstler Wiens, ed. Katalog Der XIII. Jahres-Ausstellung in Wien. Wien, 1883. https://belvedere-primo.hosted.exlibrisgroup.com/permalink/f/1vb66sb/43OGB_Alma218099890004510.
 Genossenschaft der bildenden Künstler Wiens, ed. Katalog Der XIV. Jahres-Ausstellung in Wien, Künstlerhaus. Wien, 1884. https://belvedere-primo.hosted.exlibrisgroup.com/permalink/f/1vb66sb/43OGB_Alma219527000004510.
